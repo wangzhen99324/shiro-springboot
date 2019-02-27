@@ -1,3 +1,8 @@
+vue-admin-boot/.mvn/
+vue-admin-boot/.settings/
+vue-admin-boot/.bin/
+vue-admin-boot/target/
+
 # Compiled class file
 *.class
 
