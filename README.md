@@ -37,8 +37,7 @@
 
 ```
 ### 补充
-flyway 是用来做数据库版本控制. sql 文件在 classpath:db/migiration 目录下。
-
+flyway 是用来做数据库版本控制. sql 文件在 classpath:db/migiration 目录下，并且工程启动后会自动运行 此目录的sql 语句，非常方便。
 
 
 欢迎大家  Issues。
