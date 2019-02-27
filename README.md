@@ -1,9 +1,7 @@
 # shiro-springboot
 基于 JWT ， shiro，Springboot  的，Maven工程 。提供了一个简单易上手的后台权限系统模板。
 
-```
 ## 序言
-
 
 本项目修改自：本项目修改自：[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro) 
 在此衷心的感谢这位大佬。
